@@ -2,9 +2,13 @@
 
 Minimal operating system for x86_64, with a focus on using the Pink programming language.
 
-* Minimal: Does what you need, nothing more.
+* Quite Fast: not slow, just fast enough
 
-* Small: The kernel is small, same with the programs.
+* Completely original: no linux, only purple
+
+* Minimal: does what you need, not much more
+
+* Written in Pink: modern and easy to contribute to
 
 ## usage
 
