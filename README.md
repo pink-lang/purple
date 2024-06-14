@@ -8,4 +8,4 @@ Minimal operating system for x86_64, with a focus on using the Pink programming 
 
 ## usage
 
-TBA
+not yet.

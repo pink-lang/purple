@@ -1,0 +1,5 @@
+import bo.ot
+
+func main(magic: uint32, addr: uintptr) {
+    while(true) {}
+}
