@@ -1,6 +1,6 @@
 # purple
 
-Minimal operating system for x86_64, with a focus on using the Pink programming language.
+Yet another operating system, this time in Pink.
 
 * Quite Fast: not slow, just fast enough
 
