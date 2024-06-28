@@ -1,5 +1,8 @@
 # purple
 
+> [!IMPORTANT]  
+> Purple has moved to [melody-os/mel](https://github.com/melody-os/mel), and is being rewritten from scratch.
+
 Yet another operating system, this time in Pink.
 
 * Quite Fast: not slow, just fast enough
